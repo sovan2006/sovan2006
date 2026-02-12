@@ -89,14 +89,11 @@ My focus is not just model accuracy — but **real-world impact, optimization, a
 
 ---
 
-## 📊 AI Engineering Analytics
+## 📊 AI Engineering Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sovan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sovan2006&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sovan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sovan2006&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
