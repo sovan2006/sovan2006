@@ -1,129 +1,125 @@
+# 🧠 SOVAN BARIK
 
----
-
-# 🧠 Sovan Barik
-
-### AI Engineer | Machine Learning Specialist | Aspiring Researcher
+### AI Engineer | Machine Learning Specialist | Future Researcher
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Specialist;Building+Scalable+Intelligent+Systems;Aspiring+AI+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Specialist;Building+Scalable+AI+Systems;Future+AI+Researcher" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Engineering AI That Solves Real Problems
 
-I am a **Machine Learning Engineer** focused on building **scalable, efficient, and real-world AI systems**.
-My work goes beyond model accuracy — I emphasize **system design, optimization, and practical deployment**.
+I am an AI & Machine Learning Engineer passionate about building **scalable, intelligent, and data-driven systems**.
+My focus is not just model accuracy — but **real-world impact, optimization, and system design.**
 
-* 🎓 B.Tech in Artificial Intelligence & Machine Learning
-* 📊 Strong foundation in **Mathematics, Statistics, and Algorithms**
-* 🔬 Passionate about **AI Research, NLP, and Deep Learning**
-* ⚡ Focused on **performance optimization and scalability**
+* 🎓 B.Tech – Artificial Intelligence & Machine Learning
+* 📊 Strong foundation in Mathematics, Statistics & Algorithms
+* 🔬 Interested in AI Research, NLP, and Deep Learning
+* ⚡ Focused on performance, scalability & model optimization
 * 🇮🇳 Based in India
 
 ---
 
-## 🏗️ Technical Skills
+## 🏗️ Core Technical Expertise
 
-### 💻 Programming Languages
+### 💻 Programming
 
-Python • C++ • C • Java • SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql" />
+</p>
 
 ### 🤖 Machine Learning & AI
 
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+</p>
+
 * Supervised & Unsupervised Learning
-* Algorithms: Logistic Regression, Random Forest, SVM
-* Feature Engineering & Data Preprocessing
-* Handling Imbalanced Data (SMOTE)
-* Hyperparameter Optimization (GridSearchCV)
-* Model Evaluation: Precision, Recall, F1-Score, ROC-AUC
-* Data Analysis & Visualization
+* Logistic Regression, Random Forest, SVM
+* Feature Engineering & Data Cleaning
+* SMOTE & Imbalanced Data Handling
+* Hyperparameter Tuning (GridSearchCV)
+* Model Evaluation (Precision, Recall, F1, ROC-AUC)
+* Data Visualization & Analysis
 
-### ⚙️ Tools & Technologies
+### 🗄️ Databases & Tools
 
-Scikit-learn • TensorFlow • PyTorch
-MySQL • Git • GitHub • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 🔬 Featured Projects
+## 🔬 Featured Engineering Projects
 
 ### 🛡️ Credit Card Fraud Detection System
 
-**Objective:** Detect fraudulent transactions in highly imbalanced datasets
-
-**Approach:**
+**Problem:** Highly imbalanced financial dataset
+**Solution:**
 
 * Applied SMOTE for class balancing
-* Built and compared Logistic Regression & Random Forest models
-* Optimized precision-recall tradeoff to reduce false negatives
+* Built Logistic Regression & Random Forest models
+* Optimized precision-recall tradeoff
+* Focused on minimizing false negatives
 
-**Outcome:**
-Improved reliability in detecting fraudulent transactions with better recall performance.
+**Impact:** Improved fraud detection reliability.
 
 ---
 
 ### 📈 Intelligent Stock Price Forecasting
 
-**Objective:** Predict stock price trends using time series data
-
-**Approach:**
-
-* Performed feature scaling and trend extraction
-* Compared multiple machine learning models
+* Time Series modeling
+* Feature scaling & trend extraction
+* Compared multiple ML algorithms
 * Evaluated using MSE & RMSE
 
-**Outcome:**
-Developed a structured pipeline for financial time-series prediction.
+**Focus:** Predictive modeling with structured financial data.
 
 ---
 
 ### 🌊 SONAR Rock vs Mine Classification
 
-**Objective:** Binary classification of sonar signals
+* Binary classification problem
+* Applied StandardScaler for feature normalization
+* Built Logistic Regression classifier
+* Evaluated performance using accuracy & confusion matrix
 
-**Approach:**
-
-* Applied StandardScaler for normalization
-* Implemented Logistic Regression classifier
-* Evaluated using accuracy and confusion matrix
-
-**Outcome:**
-Built a clean, end-to-end ML pipeline with strong interpretability.
+**Focus:** Clean pipeline implementation.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 AI Engineering Analytics  
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sovan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=sovan2006&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ---
 
-## 🧠 Research Interests
+## 🧠 Current Research Direction
 
 * Deep Learning Architectures
-* Natural Language Processing (NLP)
-* Multimodal AI Systems (Text + Image)
+* Natural Language Processing
+* Multimodal AI Systems
 * Model Optimization & MLOps
 * Scalable AI Deployment
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Engineering Goals
 
-* 🚀 Build **5 production-level AI systems**
-* 📚 Publish a **research-oriented ML project**
-* 🧩 Contribute to **open-source AI frameworks**
-* 🏆 Secure a **top-tier AI/ML internship**
-* 🔬 Develop a **multimodal AI application**
+* 🚀 Build 5 End-to-End AI Systems
+* 📚 Publish a research-style ML project
+* 🧩 Contribute to open-source AI libraries
+* 🏆 Secure top-tier AI/ML internship
+* 🔬 Develop a multimodal AI project (Text + Image)
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
 📧 Email: [sovanbarik07@gmail.com](mailto:sovanbarik07@gmail.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/sovan-barik-711bba326/](https://www.linkedin.com/in/sovan-barik-711bba326/)
@@ -133,5 +129,6 @@ Built a clean, end-to-end ML pipeline with strong interpretability.
 
 ## 🏆 Engineering Philosophy
 
-> *“AI is not just about building models — it’s about solving real-world problems efficiently, at scale.”*
+> “AI is not about models. It is about solving real problems efficiently.”
 
+--- improve it and make it more professional
