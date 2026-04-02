@@ -130,5 +130,3 @@ My focus is not just model accuracy — but **real-world impact, optimization, a
 ## 🏆 Engineering Philosophy
 
 > “AI is not about models. It is about solving real problems efficiently.”
-
---- improve it and make it more professional
