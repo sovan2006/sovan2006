@@ -1,165 +1,197 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sovan%20Barik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Builder%20%7C%20Researcher&descAlignY=55&descSize=18" width="100%"/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=Sovan%20Barik&fontSize=58&fontColor=00E5FF&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Researcher&descAlignY=52&descSize=18&descColor=B388FF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=00C2FF&center=true&vCenter=true&width=820&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Building+Multilingual+%26+Vision+AI+Systems;Transformers+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Internships+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Multilingual+%26+Vision+AI+Systems;Transformers+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Internships+%F0%9F%9A%80" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/sovan-barik-711bba326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sovan%20Barik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Sovan_Barik-0d1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0d1117"/>
 </a>
 <a href="mailto:sovanbarik07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=B388FF&labelColor=0d1117"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0d1117"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Resume-Download-8A2BE2?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resume-Download-0d1117?style=for-the-badge&logo=readdotcv&logoColor=B388FF&labelColor=0d1117"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sovan2006&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sovan2006?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=sovan2006&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/github/followers/sovan2006?label=FOLLOWERS&style=for-the-badge&color=0d1117&labelColor=B388FF&logo=github&logoColor=white"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B388FF&height=4&width=100%" width="100%"/>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=About%20Me&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=Who%20I%20am%20%26%20what%20I%20build&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🎓_Education-B.Tech_CS_(AI%2FML)_%C2%B7_MDU_Rohtak_%C2%B7_2024--2028-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/📍_Location-Durgapur%2C_West_Bengal%2C_India-0d1117?style=for-the-badge&labelColor=B388FF"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/💼_Current_Focus-Multilingual_NLP_%26_Deep_Learning_Systems-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/🚀_Open_to-AI%2FML_Internships_%26_Research_Collaborations-0d1117?style=for-the-badge&labelColor=B388FF"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/📚_Learning-Transformers-0d1117?style=flat-square&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LLMs-0d1117?style=flat-square&labelColor=B388FF&color=0d1117"/>
+<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/MLOps-0d1117?style=flat-square&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=B388FF"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🔬_Research_Interests-NLP-0d1117?style=flat-square&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Machine_Translation-0d1117?style=flat-square&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=flat-square&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Generative_AI-0d1117?style=flat-square&labelColor=B388FF"/>
+</p>
+
+<div align="center">
+
+> 💡 **Fun Fact** — I like taking real-world, messy problems (imbalanced fraud data, noisy multilingual text, blurry leaf photos) and turning them into working, deployable ML systems.
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=3&width=100%" width="100%"/>
-
-<br>
-
-## 🧠 About Me
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Education**
-B.Tech in Computer Science (AI/ML) — MDU Rohtak
-`2024 – 2028`
-
-**📍 Location**
-Durgapur, West Bengal, India
-
-**💼 Current Focus**
-Building multilingual NLP & deep learning systems end-to-end — from data pipelines to deployment
-
-</td>
-<td width="50%" valign="top">
-
-**🚀 Open to**
-AI/ML Internships & Research Collaborations
-
-**📚 Currently Learning**
-Transformers · LLMs · RAG · LangChain · MLOps · Docker
-
-**🔬 Research Interests**
-NLP, Machine Translation, Computer Vision, Generative AI
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-
-> 💡 **Fun Fact:** I like taking real-world, messy problems — imbalanced fraud data, noisy multilingual text, blurry leaf photos — and turning them into working, deployable ML systems.
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Skill%20Dashboard&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=Languages%2C%20frameworks%20%26%20tools%20I%20work%20with&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=3&width=100%" width="100%"/>
-
-<br>
-
-## ⚡ Skill Dashboard
-
 <div align="center">
 
-### Programming Languages
+<sub>**PROGRAMMING LANGUAGES**</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql" />
 
-### AI, ML & Deep Learning
+<br><br>
+
+<sub>**AI, ML & DEEP LEARNING**</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<br>
+<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Deep_Learning-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/Neural_Networks-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Computer_Vision_(YOLO)-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/Time_Series_Forecasting-0d1117?style=for-the-badge&labelColor=00E5FF"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-00C2FF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-00C2FF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision%20(YOLO)-8A2BE2?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-00C2FF?style=flat-square&logoColor=white"/>
+<br><br>
 
-### NLP & Generative AI
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/NLLB--200-00C2FF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/mT5-8A2BE2?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain%20(Learning)-1C3C3C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS%20(Learning)-0467DF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20(Learning)-00C2FF?style=flat-square&logoColor=white"/>
+<sub>**NLP & GENERATIVE AI**</sub>
+<br>
+<img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NLLB--200-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/mT5-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/LangChain_(Learning)-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/FAISS_(Learning)-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/RAG_(Learning)-0d1117?style=for-the-badge&labelColor=00E5FF"/>
 
-### Data Science
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-8A2BE2?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-00C2FF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/EDA-8A2BE2?style=flat-square&logoColor=white"/>
+<br><br>
 
-### Frameworks & Deployment
+<sub>**DATA SCIENCE**</sub>
+<br>
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=E70488&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/EDA-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+
+<br><br>
+
+<sub>**FRAMEWORKS & DEPLOYMENT**</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=flask,docker" />
-<img src="https://img.shields.io/badge/FastAPI%20(Learning)-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<br>
+<img src="https://img.shields.io/badge/FastAPI_(Learning)-0d1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Hugging_Face_Spaces-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
 
-### Developer Tools & Platforms
+<br><br>
+
+<sub>**DEVELOPER TOOLS & PLATFORMS**</sub>
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Google_Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=0d1117"/>
 
 </div>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=3&width=100%" width="100%"/>
-
-<br>
-
-## 🗺️ AI Learning Roadmap
 
 <div align="center">
-
-| Stage | Focus |
-|:---:|:---|
-| ✅ | **Python** — core language & scripting |
-| ✅ | **Machine Learning** — classification, regression, feature engineering |
-| ✅ | **Deep Learning** — neural networks, CNNs, TensorFlow/PyTorch |
-| ✅ | **Computer Vision** — YOLO, object detection |
-| 🔄 | **Transformers & NLP** — attention, encoder-decoder, multilingual models |
-| 🔄 | **LLMs & RAG** — LangChain, FAISS, retrieval pipelines |
-| 🔜 | **AI Agents** — tool-use, autonomous workflows |
-| 🔜 | **MLOps & Production AI** — Docker, FastAPI, scalable deployment |
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=AI%20Learning%20Roadmap&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=My%20path%20from%20fundamentals%20to%20production%20AI&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
 </div>
 
+<p align="center">
+<img src="https://img.shields.io/badge/✅_1-Python_·_Core_Language_%26_Scripting-2ECC71?style=for-the-badge&labelColor=1b1b2f"/>
+</p>
+<p align="center">⬇️</p>
+<p align="center">
+<img src="https://img.shields.io/badge/✅_2-Machine_Learning_·_Classification_%7C_Regression_%7C_Feature_Engineering-2ECC71?style=for-the-badge&labelColor=1b1b2f"/>
+</p>
+<p align="center">⬇️</p>
+<p align="center">
+<img src="https://img.shields.io/badge/✅_3-Deep_Learning_·_Neural_Nets_%7C_CNNs_%7C_TensorFlow%2FPyTorch-2ECC71?style=for-the-badge&labelColor=1b1b2f"/>
+</p>
+<p align="center">⬇️</p>
+<p align="center">
+<img src="https://img.shields.io/badge/✅_4-Computer_Vision_·_YOLO_%7C_Object_Detection-2ECC71?style=for-the-badge&labelColor=1b1b2f"/>
+</p>
+<p align="center">⬇️</p>
+<p align="center">
+<img src="https://img.shields.io/badge/🔄_5-Transformers_%26_NLP_·_Attention_%7C_Encoder--Decoder_%7C_Multilingual_Models-F5A623?style=for-the-badge&labelColor=1b1b2f"/>
+</p>
+<p align="center">⬇️</p>
+<p align="center">
+<img src="https://img.shields.io/badge/🔄_6-LLMs_%26_RAG_·_LangChain_%7C_FAISS_%7C_Retrieval_Pipelines-F5A623?style=for-the-badge&labelColor=1b1b2f"/>
+</p>
+<p align="center">⬇️</p>
+<p align="center">
+<img src="https://img.shields.io/badge/🔄_7-AI_Agents_·_Tool--Use_%7C_Autonomous_Workflows-F5A623?style=for-the-badge&labelColor=1b1b2f"/>
+</p>
+<p align="center">⬇️</p>
+<p align="center">
+<img src="https://img.shields.io/badge/🔜_8-MLOps_%26_Production_AI_·_Docker_%7C_FastAPI_%7C_Scalable_Deployment-B388FF?style=for-the-badge&labelColor=1b1b2f"/>
+</p>
+
+<p align="center">
+<sub><img src="https://img.shields.io/badge/-2ECC71?style=flat-square"/> Completed &nbsp;&nbsp; <img src="https://img.shields.io/badge/-F5A623?style=flat-square"/> In Progress &nbsp;&nbsp; <img src="https://img.shields.io/badge/-B388FF?style=flat-square"/> Upcoming</sub>
+</p>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=3&width=100%" width="100%"/>
-
-<br>
-
-## 🚀 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Featured%20Projects&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=A%20few%20things%20I%27ve%20built%20end-to-end&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
+</div>
 
 <table align="center" width="100%">
 <tr>
 <td width="100%">
 
-### 🌐 BharatTranslate-AI ⭐ <img src="https://img.shields.io/badge/In%20Progress-8A2BE2?style=flat-square"/>
+### 🌐 BharatTranslate-AI ⭐
+<img src="https://img.shields.io/badge/In_Progress-0d1117?style=for-the-badge&labelColor=F5A623"/> <img src="https://img.shields.io/badge/Category-NLP_%2F_Generative_AI-0d1117?style=for-the-badge&labelColor=00E5FF"/> <img src="https://img.shields.io/badge/Difficulty-Advanced-0d1117?style=for-the-badge&labelColor=B388FF"/>
+
 **A multilingual Neural Machine Translation system for English, Hindi & Bengali**
 
 Fine-tuning **mT5-Small** and **NLLB-200-distilled-600M** on a self-built, deduplicated parallel corpus of 32,000+ sentence pairs sourced and cleaned from 18 raw datasets — built to make Indian-language translation more accessible.
@@ -170,9 +202,11 @@ Fine-tuning **mT5-Small** and **NLLB-200-distilled-600M** on a self-built, dedup
 - BLEU-based evaluation with leakage-safe splits
 - Targeting deployment on Hugging Face Spaces
 
-`Python` `Transformers` `NLLB-200` `mT5` `PyTorch` `Hugging Face`
-
-<img src="https://img.shields.io/badge/Category-NLP%20%2F%20Generative%20AI-00C2FF?style=flat-square"/> <img src="https://img.shields.io/badge/Difficulty-Advanced-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NLLB--200-0d1117?style=flat-square&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/mT5-0d1117?style=flat-square&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117"/>
 
 </td>
 </tr>
@@ -185,6 +219,8 @@ Fine-tuning **mT5-Small** and **NLLB-200-distilled-600M** on a self-built, dedup
 <td width="50%" valign="top">
 
 ### 🌿 AI-Powered Plant Disease Detection
+<img src="https://img.shields.io/badge/Deployed-0d1117?style=for-the-badge&labelColor=2ECC71"/> <img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+
 Deep learning web app that classifies plant leaf diseases from images and serves predictions through a **Flask** app.
 
 **Highlights**
@@ -192,14 +228,16 @@ Deep learning web app that classifies plant leaf diseases from images and serves
 - Flask web deployment
 - Debugged and fixed for correct production deployment
 
-`Python` `TensorFlow` `Flask` `CNN`
-
-<img src="https://img.shields.io/badge/Category-Computer%20Vision-00C2FF?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white&labelColor=0d1117"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 💳 Credit Card Fraud Detection
+<img src="https://img.shields.io/badge/Completed-0d1117?style=for-the-badge&labelColor=2ECC71"/> <img src="https://img.shields.io/badge/Classification-0d1117?style=for-the-badge&labelColor=B388FF"/>
+
 Fraud detection model trained on highly imbalanced financial transaction data.
 
 **Highlights**
@@ -207,9 +245,9 @@ Fraud detection model trained on highly imbalanced financial transaction data.
 - Logistic Regression & Random Forest
 - Precision-recall optimization, F1 & ROC-AUC evaluation
 
-`Python` `Scikit-learn` `Pandas`
-
-<img src="https://img.shields.io/badge/Category-Classification-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=E70488&labelColor=0d1117"/>
 
 </td>
 </tr>
@@ -217,6 +255,8 @@ Fraud detection model trained on highly imbalanced financial transaction data.
 <td width="50%" valign="top">
 
 ### 🌊 SONAR Rock vs. Mine Prediction
+<img src="https://img.shields.io/badge/Completed-0d1117?style=for-the-badge&labelColor=2ECC71"/> <img src="https://img.shields.io/badge/Classification-0d1117?style=for-the-badge&labelColor=B388FF"/>
+
 Binary classification system distinguishing rocks from mines using sonar signal data.
 
 **Highlights**
@@ -224,14 +264,15 @@ Binary classification system distinguishing rocks from mines using sonar signal 
 - Logistic Regression model
 - Accuracy & confusion matrix evaluation
 
-`Python` `Scikit-learn`
-
-<img src="https://img.shields.io/badge/Category-Classification-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔩 Transformer Learning Repository
+<img src="https://img.shields.io/badge/In_Progress-0d1117?style=for-the-badge&labelColor=F5A623"/> <img src="https://img.shields.io/badge/Deep_Learning-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+
 A hands-on, interview-focused collection of Transformer building blocks implemented from scratch.
 
 **Highlights**
@@ -239,9 +280,8 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 - Positional Encoding
 - Encoder-Decoder architecture in PyTorch
 
-`Python` `PyTorch` `Transformers`
-
-<img src="https://img.shields.io/badge/Category-Deep%20Learning-00C2FF?style=flat-square"/> <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117"/>
 
 </td>
 </tr>
@@ -249,24 +289,22 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=3&width=100%" width="100%"/>
-
-<br>
-
-## 📊 GitHub Analytics
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=GitHub%20Analytics&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=Activity%2C%20stats%20%26%20streaks&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
+</div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sovan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=sovan2006&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sovan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=B388FF&text_color=c9d1d9"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sovan2006&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=B388FF&currStreakLabel=00E5FF"/>
 
 <br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovan2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovan2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9"/>
 
 <br><br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sovan2006&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sovan2006&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=B388FF&point=ffffff"/>
 
 <br><br>
 
@@ -276,46 +314,46 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=3&width=100%" width="100%"/>
-
-<br>
-
-## 🎯 Current Focus
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Current%20Focus&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=What%20I%27m%20building%20right%20now&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
+</div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/AI_Agents-0d1117?style=for-the-badge&labelColor=B388FF"/>
 
 </div>
 
 <br>
 
-## 🏆 2026 Goals
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=2026%20Goals&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=Milestones%20I%27m%20working%20toward&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
+</div>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-✅ Ship BharatTranslate-AI to production
-✅ Build & deploy production-ready AI systems
-✅ Master Transformers & LLM architectures
-✅ Learn MLOps & scalable deployment
+☑️ Ship BharatTranslate-AI to production
+☑️ Build & deploy production-ready AI systems
+☑️ Master Transformers & LLM architectures
+☑️ Learn MLOps & scalable deployment
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-✅ Contribute to open-source AI repositories
-✅ Publish research-oriented AI work
-✅ Strengthen Data Structures & Algorithms
-✅ Secure an AI/ML internship
+☑️ Contribute to open-source AI repositories
+☑️ Publish research-oriented AI work
+☑️ Strengthen Data Structures & Algorithms
+☑️ Secure an AI/ML internship
 
 </td>
 </tr>
@@ -323,37 +361,35 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=3&width=100%" width="100%"/>
-
-<br>
-
 <div align="center">
 
-## 💭 Philosophy
-
-> *"The best AI systems are not defined by complexity, but by the value they create for people."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B388FF&height=4&width=100%" width="100%"/>
 
 <br>
 
-## 📫 Let's Connect
+### 💭 *"The best AI systems are not defined by complexity, but by the value they create for people."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Let%27s%20Connect&fontSize=34&fontColor=00E5FF&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/sovan2006">
-  <img src="https://img.shields.io/badge/GitHub-sovan2006-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-sovan2006-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0d1117"/>
 </a>
 <a href="https://www.linkedin.com/in/sovan-barik-711bba326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sovan%20Barik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sovan_Barik-0d1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0d1117"/>
 </a>
 <a href="mailto:sovanbarik07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=B388FF&labelColor=0d1117"/>
 </a>
 <a href="https://www.kaggle.com/sovanbarik">
-  <img src="https://img.shields.io/badge/Kaggle-sovanbarik-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-sovanbarik-0d1117?style=for-the-badge&logo=kaggle&logoColor=00E5FF&labelColor=0d1117"/>
 </a>
 
 <br><br>
 
 ⭐ **Thank you for visiting my profile — always open to connect, collaborate, or talk AI.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=130&section=footer" width="100%"/>
 
 </div>
