@@ -9,16 +9,16 @@
 <br>
 
 <a href="https://www.linkedin.com/in/sovan-barik-711bba326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sovan_Barik-0d1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sovan_Barik-0d1117?style=for-the-badge&logo=linkedin&logoColor=1b1b2f&labelColor=00E5FF"/>
 </a>
 <a href="mailto:sovanbarik07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=B388FF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=1b1b2f&labelColor=B388FF"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=1b1b2f&labelColor=00E5FF"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Resume-Download-0d1117?style=for-the-badge&logo=readdotcv&logoColor=B388FF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Resume-Download-0d1117?style=for-the-badge&logo=readdotcv&logoColor=1b1b2f&labelColor=B388FF"/>
 </a>
 
 <br><br>
@@ -51,18 +51,18 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/📚_Learning-Transformers-0d1117?style=flat-square&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/LLMs-0d1117?style=flat-square&labelColor=B388FF&color=0d1117"/>
-<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/MLOps-0d1117?style=flat-square&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/LLMs-B388FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-00E5FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-B388FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLOps-00E5FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-B388FF?style=flat-square"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🔬_Research_Interests-NLP-0d1117?style=flat-square&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Machine_Translation-0d1117?style=flat-square&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=flat-square&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Generative_AI-0d1117?style=flat-square&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/Machine_Translation-B388FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-00E5FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-B388FF?style=flat-square"/>
 </p>
 
 <div align="center">
@@ -89,32 +89,32 @@
 <br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 <br>
-<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Deep_Learning-0d1117?style=for-the-badge&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/Neural_Networks-0d1117?style=for-the-badge&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Computer_Vision_(YOLO)-0d1117?style=for-the-badge&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/Time_Series_Forecasting-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-B388FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural_Networks-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision_(YOLO)-B388FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time_Series_Forecasting-00E5FF?style=for-the-badge"/>
 
 <br><br>
 
 <sub>**NLP & GENERATIVE AI**</sub>
 <br>
-<img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/NLLB--200-0d1117?style=for-the-badge&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/mT5-0d1117?style=for-the-badge&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/LangChain_(Learning)-0d1117?style=for-the-badge&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/FAISS_(Learning)-0d1117?style=for-the-badge&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/RAG_(Learning)-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Transformers-1b1b2f?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/NLLB--200-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/mT5-B388FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain_(Learning)-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS_(Learning)-B388FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_(Learning)-00E5FF?style=for-the-badge"/>
 
 <br><br>
 
 <sub>**DATA SCIENCE**</sub>
 <br>
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=E70488&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/EDA-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/NumPy-1b1b2f?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-1b1b2f?style=for-the-badge&logo=pandas&logoColor=E70488"/>
+<img src="https://img.shields.io/badge/Matplotlib-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-B388FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-00E5FF?style=for-the-badge"/>
 
 <br><br>
 
@@ -122,8 +122,8 @@
 <br>
 <img src="https://skillicons.dev/icons?i=flask,docker" />
 <br>
-<img src="https://img.shields.io/badge/FastAPI_(Learning)-0d1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Hugging_Face_Spaces-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FastAPI_(Learning)-1b1b2f?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Hugging_Face_Spaces-1b1b2f?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 
 <br><br>
 
@@ -131,9 +131,9 @@
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <br>
-<img src="https://img.shields.io/badge/Google_Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Jupyter_Notebook-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Google_Colab-1b1b2f?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-1b1b2f?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Kaggle-1b1b2f?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
 
 </div>
 
@@ -176,7 +176,7 @@
 </p>
 
 <p align="center">
-<sub><img src="https://img.shields.io/badge/-2ECC71?style=flat-square"/> Completed &nbsp;&nbsp; <img src="https://img.shields.io/badge/-F5A623?style=flat-square"/> In Progress &nbsp;&nbsp; <img src="https://img.shields.io/badge/-B388FF?style=flat-square"/> Upcoming</sub>
+<sub>🟢 Completed &nbsp;&nbsp; 🟡 In Progress &nbsp;&nbsp; 🟣 Upcoming</sub>
 </p>
 
 <br>
@@ -190,7 +190,7 @@
 <td width="100%">
 
 ### 🌐 BharatTranslate-AI ⭐
-<img src="https://img.shields.io/badge/In_Progress-0d1117?style=for-the-badge&labelColor=F5A623"/> <img src="https://img.shields.io/badge/Category-NLP_%2F_Generative_AI-0d1117?style=for-the-badge&labelColor=00E5FF"/> <img src="https://img.shields.io/badge/Difficulty-Advanced-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/In_Progress-F5A623?style=for-the-badge"/> <img src="https://img.shields.io/badge/Category-NLP_%2F_Generative_AI-00E5FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Difficulty-Advanced-B388FF?style=for-the-badge"/>
 
 **A multilingual Neural Machine Translation system for English, Hindi & Bengali**
 
@@ -202,11 +202,11 @@ Fine-tuning **mT5-Small** and **NLLB-200-distilled-600M** on a self-built, dedup
 - BLEU-based evaluation with leakage-safe splits
 - Targeting deployment on Hugging Face Spaces
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/NLLB--200-0d1117?style=flat-square&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/mT5-0d1117?style=flat-square&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-1b1b2f?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Transformers-1b1b2f?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/NLLB--200-00E5FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/mT5-B388FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-1b1b2f?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
 
 </td>
 </tr>
@@ -219,7 +219,7 @@ Fine-tuning **mT5-Small** and **NLLB-200-distilled-600M** on a self-built, dedup
 <td width="50%" valign="top">
 
 ### 🌿 AI-Powered Plant Disease Detection
-<img src="https://img.shields.io/badge/Deployed-0d1117?style=for-the-badge&labelColor=2ECC71"/> <img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Deployed-2ECC71?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer_Vision-00E5FF?style=for-the-badge"/>
 
 Deep learning web app that classifies plant leaf diseases from images and serves predictions through a **Flask** app.
 
@@ -228,15 +228,15 @@ Deep learning web app that classifies plant leaf diseases from images and serves
 - Flask web deployment
 - Debugged and fixed for correct production deployment
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-1b1b2f?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-1b1b2f?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Flask-1b1b2f?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 💳 Credit Card Fraud Detection
-<img src="https://img.shields.io/badge/Completed-0d1117?style=for-the-badge&labelColor=2ECC71"/> <img src="https://img.shields.io/badge/Classification-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/Completed-2ECC71?style=for-the-badge"/> <img src="https://img.shields.io/badge/Classification-B388FF?style=for-the-badge"/>
 
 Fraud detection model trained on highly imbalanced financial transaction data.
 
@@ -245,9 +245,9 @@ Fraud detection model trained on highly imbalanced financial transaction data.
 - Logistic Regression & Random Forest
 - Precision-recall optimization, F1 & ROC-AUC evaluation
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=E70488&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-1b1b2f?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Scikit--learn-1b1b2f?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Pandas-1b1b2f?style=flat-square&logo=pandas&logoColor=E70488"/>
 
 </td>
 </tr>
@@ -255,7 +255,7 @@ Fraud detection model trained on highly imbalanced financial transaction data.
 <td width="50%" valign="top">
 
 ### 🌊 SONAR Rock vs. Mine Prediction
-<img src="https://img.shields.io/badge/Completed-0d1117?style=for-the-badge&labelColor=2ECC71"/> <img src="https://img.shields.io/badge/Classification-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/Completed-2ECC71?style=for-the-badge"/> <img src="https://img.shields.io/badge/Classification-B388FF?style=for-the-badge"/>
 
 Binary classification system distinguishing rocks from mines using sonar signal data.
 
@@ -264,14 +264,14 @@ Binary classification system distinguishing rocks from mines using sonar signal 
 - Logistic Regression model
 - Accuracy & confusion matrix evaluation
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-1b1b2f?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Scikit--learn-1b1b2f?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔩 Transformer Learning Repository
-<img src="https://img.shields.io/badge/In_Progress-0d1117?style=for-the-badge&labelColor=F5A623"/> <img src="https://img.shields.io/badge/Deep_Learning-0d1117?style=for-the-badge&labelColor=00E5FF"/>
+<img src="https://img.shields.io/badge/In_Progress-F5A623?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep_Learning-00E5FF?style=for-the-badge"/>
 
 A hands-on, interview-focused collection of Transformer building blocks implemented from scratch.
 
@@ -280,8 +280,8 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 - Positional Encoding
 - Encoder-Decoder architecture in PyTorch
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-1b1b2f?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PyTorch-1b1b2f?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
 
 </td>
 </tr>
@@ -320,15 +320,15 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-0d1117?style=for-the-badge&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&labelColor=B388FF"/>
-<img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&labelColor=00E5FF"/>
-<img src="https://img.shields.io/badge/AI_Agents-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1b1b2f?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/FAISS-B388FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-1b1b2f?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Hugging_Face-1b1b2f?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Docker-1b1b2f?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/FastAPI-1b1b2f?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/MLOps-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-B388FF?style=for-the-badge"/>
 
 </div>
 
@@ -374,16 +374,16 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Let%27s%20Connect&fontSize=34&fontColor=00E5FF&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/sovan2006">
-  <img src="https://img.shields.io/badge/GitHub-sovan2006-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-sovan2006-0d1117?style=for-the-badge&logo=github&logoColor=1b1b2f&labelColor=00E5FF"/>
 </a>
 <a href="https://www.linkedin.com/in/sovan-barik-711bba326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sovan_Barik-0d1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sovan_Barik-0d1117?style=for-the-badge&logo=linkedin&logoColor=1b1b2f&labelColor=B388FF"/>
 </a>
 <a href="mailto:sovanbarik07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=B388FF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=1b1b2f&labelColor=00E5FF"/>
 </a>
 <a href="https://www.kaggle.com/sovanbarik">
-  <img src="https://img.shields.io/badge/Kaggle-sovanbarik-0d1117?style=for-the-badge&logo=kaggle&logoColor=00E5FF&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Kaggle-sovanbarik-0d1117?style=for-the-badge&logo=kaggle&logoColor=1b1b2f&labelColor=B388FF"/>
 </a>
 
 <br><br>
