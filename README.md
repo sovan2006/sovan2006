@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=Sovan%20Barik&fontSize=58&fontColor=00E5FF&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Researcher&descAlignY=52&descSize=18&descColor=B388FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=Sovan%20Barik&fontSize=58&fontColor=00E5FF&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Researcher&descAlignY=52&descSize=18&descColor=B388FF" width="100%" alt="header banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Multilingual+%26+Vision+AI+Systems;Transformers+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Internships+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Multilingual+%26+Vision+AI+Systems;Transformers+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Internships+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br>
@@ -14,11 +14,11 @@
 <a href="mailto:sovanbarik07@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-sovanbarik07%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=1b1b2f&labelColor=B388FF"/>
 </a>
-<a href="#">
+<a href="https://github.com/sovan2006">
   <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=1b1b2f&labelColor=00E5FF"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Resume-Download-0d1117?style=for-the-badge&logo=readdotcv&logoColor=1b1b2f&labelColor=B388FF"/>
+<a href="https://github.com/sovan2006">
+  <img src="https://img.shields.io/badge/Resume-Coming_Soon-0d1117?style=for-the-badge&logo=readdotcv&logoColor=1b1b2f&labelColor=B388FF"/>
 </a>
 
 <br><br>
