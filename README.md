@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=Sovan%20Barik&fontSize=58&fontColor=00E5FF&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Researcher&descAlignY=52&descSize=18&descColor=B388FF" width="100%" alt="header banner"/>
+# 👋 Hi, I'm Sovan Barik
+
+### AI & Machine Learning Engineer • Builder • Researcher
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Multilingual+%26+Vision+AI+Systems;Transformers+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Internships+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Multilingual+%26+Vision+AI+Systems;Transformers+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Internships+%F0%9F%9A%80&v=20260716" alt="Typing SVG"/>
 </a>
 
 <br>
@@ -23,18 +25,15 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sovan2006&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge&labelColor=00E5FF"/>
-<img src="https://img.shields.io/github/followers/sovan2006?label=FOLLOWERS&style=for-the-badge&color=0d1117&labelColor=B388FF&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=sovan2006&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge&labelColor=00E5FF&v=20260716"/>
+<img src="https://img.shields.io/github/followers/sovan2006?label=FOLLOWERS&style=for-the-badge&color=0d1117&labelColor=B388FF&logo=github&logoColor=white&v=20260716"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B388FF&height=4&width=100%" width="100%"/>
+---
 
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=About%20Me&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=Who%20I%20am%20%26%20what%20I%20build&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
-</div>
+## 📌 About Me
+<p align="center"><sub>Who I am & what I build</sub></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🎓_Education-B.Tech_CS_(AI%2FML)_%C2%B7_MDU_Rohtak_%C2%B7_2024--2028-0d1117?style=for-the-badge&labelColor=00E5FF"/>
@@ -73,9 +72,10 @@
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Skill%20Dashboard&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=Languages%2C%20frameworks%20%26%20tools%20I%20work%20with&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
-</div>
+---
+
+## 🛠️ Skill Dashboard
+<p align="center"><sub>Languages, frameworks & tools I work with</sub></p>
 
 <div align="center">
 
@@ -139,9 +139,10 @@
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=AI%20Learning%20Roadmap&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=My%20path%20from%20fundamentals%20to%20production%20AI&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
-</div>
+---
+
+## 🗺️ AI Learning Roadmap
+<p align="center"><sub>My path from fundamentals to production AI</sub></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/✅_1-Python_·_Core_Language_%26_Scripting-2ECC71?style=for-the-badge&labelColor=1b1b2f"/>
@@ -181,9 +182,10 @@
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Featured%20Projects&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=A%20few%20things%20I%27ve%20built%20end-to-end&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
-</div>
+---
+
+## 🚀 Featured Projects
+<p align="center"><sub>A few things I've built end-to-end</sub></p>
 
 <table align="center" width="100%">
 <tr>
@@ -289,34 +291,36 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=GitHub%20Analytics&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=Activity%2C%20stats%20%26%20streaks&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
-</div>
+---
+
+## 📊 GitHub Analytics
+<p align="center"><sub>Activity, stats & streaks</sub></p>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sovan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=B388FF&text_color=c9d1d9"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=sovan2006&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=B388FF&currStreakLabel=00E5FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sovan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=B388FF&text_color=c9d1d9&cache_seconds=1800&v=20260716"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sovan2006&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=B388FF&currStreakLabel=00E5FF&v=20260716"/>
 
 <br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovan2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovan2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&cache_seconds=1800&v=20260716"/>
 
 <br><br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sovan2006&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=B388FF&point=ffffff"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sovan2006&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=B388FF&point=ffffff&v=20260716"/>
 
 <br><br>
 
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=sovan2006&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="80%" src="https://github-profile-trophy.vercel.app/?username=sovan2006&theme=tokyonight&no-frame=true&row=1&column=6&v=20260716"/>
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Current%20Focus&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=What%20I%27m%20building%20right%20now&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
-</div>
+---
+
+## 🔭 Current Focus
+<p align="center"><sub>What I'm building right now</sub></p>
 
 <div align="center">
 
@@ -334,9 +338,10 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=2026%20Goals&fontSize=34&fontColor=00E5FF&animation=fadeIn&desc=Milestones%20I%27m%20working%20toward&descSize=14&descColor=B388FF&descAlignY=72" width="100%"/>
-</div>
+---
+
+## 🎯 2026 Goals
+<p align="center"><sub>Milestones I'm working toward</sub></p>
 
 <table align="center" width="100%">
 <tr>
@@ -363,15 +368,13 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:B388FF&height=4&width=100%" width="100%"/>
-
-<br>
+---
 
 ### 💭 *"The best AI systems are not defined by complexity, but by the value they create for people."*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243e&height=95&section=header&text=Let%27s%20Connect&fontSize=34&fontColor=00E5FF&animation=fadeIn" width="100%"/>
+## 🤝 Let's Connect
 
 <a href="https://github.com/sovan2006">
   <img src="https://img.shields.io/badge/GitHub-sovan2006-0d1117?style=for-the-badge&logo=github&logoColor=1b1b2f&labelColor=00E5FF"/>
@@ -390,6 +393,6 @@ A hands-on, interview-focused collection of Transformer building blocks implemen
 
 ⭐ **Thank you for visiting my profile — always open to connect, collaborate, or talk AI.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=130&section=footer" width="100%"/>
+---
 
 </div>
