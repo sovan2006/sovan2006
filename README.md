@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/🎓_Education-B.Tech_CS_(AI%2FML)_%C2%B7_MDU_Rohtak_%C2%B7_2024--2028-0d1117?style=for-the-badge&labelColor=00E5FF"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/📍_Location-Durgapur%2C_West_Bengal%2C_India-0d1117?style=for-the-badge&labelColor=B388FF"/>
+<img src="https://img.shields.io/badge/📍_Location-Purba_Medinipur%2C_West_Bengal%2C_India-0d1117?style=for-the-badge&labelColor=B388FF"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/💼_Current_Focus-Multilingual_NLP_%26_Deep_Learning_Systems-0d1117?style=for-the-badge&labelColor=00E5FF"/>
